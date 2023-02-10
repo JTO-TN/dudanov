@@ -32,7 +32,7 @@ wifi:
     password: "jackson21"
 
 # Must be used once. It is necessary to comment out after the first firmware update.
- use_address: Esphome-Web-6E2922
+ #use_address: Esphome-Web-6E2922
 captive_portal:
 
 #wifi:
